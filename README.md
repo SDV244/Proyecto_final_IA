@@ -52,3 +52,8 @@ Como se puede apreciar, el modelo con mejor desempeño en todas las metricas es 
 ### Colclusiones
 
 Se ha demostrado que el mejor desempeño para este dataset es el del modelo Random Forest, las herramientas vistas en este curso fueron fundamentales para la correcta realización de este proyecto y afrontar sus dificultades, se recomienda para el futuro visualizar el rango de la etiqueta como malo, bueno y excelente, esto podría mejorar los scores y facilitarle el trabajo a los modelos empleados.
+
+### GitHub
+https://github.com/SDV244/Proyecto_final_IA
+### Link Video
+https://youtu.be/3DO3CEeZtgo
